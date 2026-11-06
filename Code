@@ -1,1 +1,12 @@
-git
+git config --global user.name "eimolouisette"
+git config --global user.email "eimolouisette@gmail.com"
+git clone https://github.com.Group-D
+cd Ewallet
+ls
+git config --global --list
+git remote -v
+cat README.md
+git remote set-URL origin https://github.com/eimolouisette/Ewallet. git
+git commit -m ajouteimolouisette
+git push origin eimolouisette 
+username: eimolouisette 
